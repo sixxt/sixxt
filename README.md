@@ -11,18 +11,14 @@ Hi there! I'm **syther**, a passionate developer specializing in forum themes, H
   <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=js,jquery,html,css,bootstrap,git,vscode,ps" />
 </div>
 
-
 # Socials
 
-<a href="https://www.instagram.com/sixxt01">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23335d8c?style=for-the-badge&logo=instagram&logoColor=white" height="27px" />
+<a href="https://www.instagram.com/syth3rr">
+  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=instagram" height="50px" />
 </a>
 <a href="https://discord.com/users/714043773172318239">
-  <img alt="Discord" src="https://img.shields.io/badge/syther-335d8c?style=for-the-badge&logo=discord&logoWidth=25&logoColor=335d8c&labelColor=0d1117" height="27px" />
-</a>
-<a href="https://www.sxt.one">
-  <img alt="Website" src="https://img.shields.io/badge/Website-sxt.one-335d8c?style=for-the-badge&logoWidth=25&labelColor=0d1117" height="27px" />
+  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=discord" height="50px" />
 </a>
 <a href="mailto:sxtdesign@proton.me">
-  <img alt="Email" src="https://img.shields.io/badge/-Email%20Address-%23335d8c?style=for-the-badge&logo=Gmail&logoColor=%23000" height="27px" />
+  <img align="top" alt="HTML" src="https://skillicons.dev/icons?i=gmail" height="50px" />
 </a>
